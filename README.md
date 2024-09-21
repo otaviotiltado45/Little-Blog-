@@ -16,7 +16,7 @@ O projeto é dividido em vários componentes principais, cada um responsável po
 ## Tecnologias Utilizadas
 
 - **React**: Biblioteca para construção de interfaces de usuário.
-- **styled-components**: Biblioteca para estilização de componentes utilizando CSS-in-JS.
+- **styled-components**: Biblioteca para estilização de componentes utilizando CSS e JS.
 - **JavaScript**: Linguagem de programação utilizada no desenvolvimento da aplicação.
 
 ## Como Usar
