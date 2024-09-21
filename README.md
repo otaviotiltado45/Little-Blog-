@@ -13,6 +13,12 @@ O projeto é dividido em vários componentes principais, cada um responsável po
 - **Modal.js**: Um componente que exibe o conteúdo completo do post em uma janela modal.
 - **PostStyles.js**: Um arquivo que contém os estilos globais e específicos da aplicação, usando styled-components.
 
+## Tecnologias Utilizadas
+
+- **React**: Biblioteca para construção de interfaces de usuário.
+- **styled-components**: Biblioteca para estilização de componentes utilizando CSS-in-JS.
+- **JavaScript**: Linguagem de programação utilizada no desenvolvimento da aplicação.
+
 ## Como Usar
 
 ### Instalação
